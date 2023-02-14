@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-14T03:52:59Z" name="TestCase1" finished-at="2023-02-14T03:53:05Z" duration-ms="6137">
+    <groups>
+    </groups>
+    <test started-at="2023-02-14T03:52:59Z" name="Command line test" finished-at="2023-02-14T03:53:05Z" duration-ms="6137">
+      <class name="TestCase1">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCase1@6dde5c8c]" started-at="2023-02-14T10:52:59Z" name="setUp" finished-at="2023-02-14T10:53:04Z" duration-ms="4435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="firstTry()[pri:0, instance:TestCase1@6dde5c8c]" started-at="2023-02-14T10:53:04Z" name="firstTry" finished-at="2023-02-14T10:53:05Z" duration-ms="1506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTry -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase1@6dde5c8c]" started-at="2023-02-14T10:53:05Z" name="tearDown" finished-at="2023-02-14T10:53:05Z" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCase1 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestCase1 -->
+</testng-results>
